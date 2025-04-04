@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://c6us4fbyne0ln"]
+
+[ext_resource type="Texture2D" uid="uid://itadjup7hqg7" path="res://hello kitty 2 .png" id="1_7gikc"]
+[ext_resource type="Texture2D" uid="uid://sb13s7skwkse" path="res://Sanrio_Characters_Kuromi_Image016.webp" id="2_xaejr"]
+
+[node name="HelloKitty2" type="Sprite2D"]
+position = Vector2(48, 498.5)
+scale = Vector2(0.293, 0.2655)
+texture = ExtResource("1_7gikc")
+
+[node name="SanrioCharactersKuromiImage016" type="Sprite2D" parent="."]
+position = Vector2(1817.07, -634.652)
+scale = Vector2(4.42892, 4.72683)
+texture = ExtResource("2_xaejr")
